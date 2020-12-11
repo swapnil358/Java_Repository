@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.firefox.FirefoxDriver"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.Alert"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+<fullyQualifiedTypeName name="OOPConceptPart2.FunctionsInJava"/>
+<fullyQualifiedTypeName name="OOPConceptPart2.LocalVsGlovalVariabe"/>
+<fullyQualifiedTypeName name="OOPConceptPart2.MethodOverloading"/>
+<fullyQualifiedTypeName name="OOPConceptPart2.StaticAndNonStaticConcept"/>
+<fullyQualifiedTypeName name="java.lang.Boolean"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="OOPConceptPart2.CallByValAndCallByRef"/>
+<fullyQualifiedTypeName name="OOPSConceptPart3.Car"/>
+<fullyQualifiedTypeName name="OOPSConceptPart3.Vehicle"/>
+<fullyQualifiedTypeName name="OOPSConceptPart3.HSBCBank"/>
+<fullyQualifiedTypeName name="OOPSConceptPart3.USBank"/>
+<fullyQualifiedTypeName name="javaLearning.ArrayListConcept"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+<fullyQualifiedTypeName name="java.lang.NullPointerException"/>
+<fullyQualifiedTypeName name="OOPSConceptPart4.FinalizeConcept"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="OOPSConceptPart4.ConstructorConcept"/>
+<fullyQualifiedTypeName name="OOPSConceptPart4.ContructorWithThisKeyword"/>
+<fullyQualifiedTypeName name="OOPSConceptPart4.A"/>
+<fullyQualifiedTypeName name="OOPSConceptPart4.B"/>
+</qualifiedTypeNameHistroy>

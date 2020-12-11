@@ -1,0 +1,19 @@
+package javaLearning;
+
+import java.util.Hashtable;
+
+public class HashTableConcept {
+	
+	public static void main(String[] args) {
+	
+		Hashtable h = new Hashtable();
+		
+		h.put(10, "test");
+		h.put(20, "Hello");
+		h.put(30, "world");
+		
+		System.out.println(h.size());
+		
+	}
+
+}
